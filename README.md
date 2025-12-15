@@ -1,28 +1,17 @@
 [LICENSE__BADGE]: https://img.shields.io/github/license/Fernanda-Kipper/Readme-Templates?style=for-the-badge
-[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
-[TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
-[REACT__BADGE]: https://img.shields.io/badge/React-005CFE?style=for-the-badge&logo=react
-[VUE__BADGE]: https://img.shields.io/badge/VueJS-fff?style=for-the-badge&logo=vue
-[GATSBY__BADGE]: https://img.shields.io/badge/Gatsby-7026b9?style=for-the-badge&logo=gatsby
-[ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
 [PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
-[PROJECT__URL]: https://github.com/Fernanda-Kipper/Readme-Templates
-[NODE_BADGE]:https://img.shields.io/badge/node.js-20.16.0-43853D?style=for-the-badge&logo=node.js
-[PYTHON_BADGE]:https://img.shields.io/badge/Python-3.11.9-blue?style=for-the-badge&logo=python&logoColor=lightskyblue
-[PRS_BADGE]:https://img.shields.io/badge/PRs-welcome-green?style=for-the-badge
+[PROJECT__URL]: https://oewersson.github.io/alura-newsletter/
+[VS_CODE_URL]: https://code.visualstudio.com/
+[EXTENSAO_LIVE-SERVER_URL]: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
-<h1 align="center" style="font-weight: bold;">Project name 💻</h1>
+
+
+<h1 align="center" style="font-weight: bold;"> Alura Newsletter 💻</h1>
 
 ![license][LICENSE__BADGE]
-![react][REACT__BADGE]
-![gatsby][GATSBY__BADGE]
-![angular][ANGULAR__BADGE]
-![vue][VUE__BADGE]
-![typescript][TYPESCRIPT__BADGE]
-![javascript][JAVASCRIPT__BADGE]
-![node][NODE_BADGE]
-![python][PYTHON_BADGE]
-![prs][PRS_BADGE]
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <details open="open">
 <summary>Índice</summary>
@@ -30,66 +19,58 @@
 - [📌 Sobre](#started)
 - [🚀 Comece aqui](#started)
   - [Pré-requisitos](#prerequisites)
-  - [Clonando](#cloning)
-  - [Iniciando](#starting)
-- [📍 Rotas de Aplicação](#routes)
+  - [Clonando](#started)
+  - [Mídia](#media)
 - [🤝 Colaboradores](#colab)
-- [📫 Contrinua](#contribute)
   
 </details>
 
 
-<p align="center">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
-</p>
-
 <h2 id="started">📌 Sobre</h2>
 
-Descrição simples do que seu projeto faz ou como usá-lo.
+Este projeto consiste no desenvolvimento de uma página de Newsletter, utilizando o framework Tailwind CSS, com foco em componentização visual, responsividade e organização de layout. 
+A aplicação demonstra o uso de classes utilitárias para estilização, estruturação semântica em HTML e boas práticas de front-end, garantindo uma interface leve, consistente e adaptável a diferentes tamanhos de tela.
 
 [![project][PROJECT__BADGE]][PROJECT__URL]
 
+<h2 id="media">Desktop</h2>
+
+<div align="center"> 
+<img src= "https://github.com/user-attachments/assets/b6527027-db85-4ed1-8d7b-707bc66345b6" width="800px"/>
+</div>
+
+<h2 id="media">Tablet</h2>
+
+<div align="center"> 
+<img src= "https://github.com/user-attachments/assets/e4e5c576-6e59-4187-91b8-8a32e6f64f1e" width="600px"/>
+</div>
+
+  <h2 id="media">Mobile</h2>
+
+<div align="center"> 
+<img src= "https://github.com/user-attachments/assets/52dbd30f-da63-4534-97b6-fec150155dd3" width="300px"/>
+</div>
+  <div> 
+
 <h2 id="started">🚀 Comece Aqui</h2>
 
-Aqui você descreve como executar seu projeto localmente.
+**Para rodar no seu computador:**
+
+- Clone o repositório para o seu computador
+- Inície o repositório na sua IDE de preferência, eu uso o VS Code
+- Utilize a extensão Live Server para fazer o Deploy
+- Ele vai ser aberto no seu navegador
 
 <h3 id="prerequisites">Pré-requisitos</h3>
 
-Aqui você lista todos os pré-requisitos necessários para executar seu projeto. Por exemplo:
+- [VS CODE][VS_CODE_URL]
+- [Extensão Live Server][EXTENSAO_LIVE-SERVER_URL]
 
-- [NodeJS](https://github.com/)
-- [Git 2](https://github.com)
-
-<h3 id="cloning">Clonado</h3>
-
-Como clonar o repositório
-
-```bash
-git clone your-project-url-in-github
-```
-
-<h3 id="starting">Iniciando</h3>
-
-Como fazer para iniciar o projeto
-
-```bash
-cd project-name
-npm some-command-to-run
-```
-
-<h2 id="routes">📍 Rotas da Aplicação</h2>
-
-Aqui você pode listar as principais rotas da sua API e quais são os corpos de requisição esperados para elas.
-​
-| route               | description                                          
-|----------------------|-----------------------------------------------------
-| <kbd>/authenticate</kbd>     | página que lista todas as informações do usuário
-| <kbd>/login</kbd>     | paǵina de login
-| <kbd>/dashboard</kbd>     | Página que contém todas as informações de compras e gastos do usuário.
 
 <h2 id="colab">🤝 Colaboradores</h2>
 
 Um agradecimento especial a todas as pessoas que contribuíram para este projeto.
+
 <table>
   <tr>
     <td align="center">
@@ -100,30 +81,15 @@ Um agradecimento especial a todas as pessoas que contribuíram para este projeto
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://t.ctcdn.com.br/n7eZ74KAcU3iYwnQ89-ul9txVxc=/400x400/smart/filters:format(webp)/i490769.jpeg" width="100px;" alt="Elon Musk Picture"/><br>
-        <sub>
-          <b>Elon Musk</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Steve Jobs</b>
-        </sub>
-      </a>
-    </td>
   </tr>
 </table>
 
-<h2 id="contribute">📫 Contribuir</h2>
 
-Aqui você explicará como outros desenvolvedores podem contribuir para o seu projeto. Por exemplo, explicando como criar branches, quais padrões seguir e como abrir um pull request.
-
-1. `git clone https://github.com/Fernanda-Kipper/text-editor.git`
-2. `git checkout -b feature/NAME`
-3. Follow commit patterns
-4. Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
+Acompanhe minha jornada! 📫  
+  <div> 
+  <a href="https://www.linkedin.com/in/oewersson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/oewersson/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ewerssonassisdj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href="https://cursos.alura.com.br/vitrinedev/ewersson" target="_blank"><img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="Vitrine.Dev, meu portfólio na Alura"></a>  
+  <a href="https://ewerssonassis.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="Meu portfólio pessoal"></a>
+</div>
